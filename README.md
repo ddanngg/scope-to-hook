@@ -7,5 +7,5 @@ How garbage collector and scope chain create closure. It's use cases and memory 
 ### index.js
 simple useState(actually context) and some useful use cases (debounce, singleton,...)
 
-### react2.js
+### use-state.js
 better version of useState with state Queue
