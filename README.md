@@ -1,5 +1,5 @@
 # scope-to-hook
-# How scope js works !
+# How scope in js (may) works!
 
 ### closure.js
 How garbage collector and scope chain create closure. It's use cases and memory leaks.
