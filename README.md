@@ -1,4 +1,4 @@
-# scope-to-hook
+# Journey from javascript scope to React hook
 # How scope in js (may) works!
 
 ### closure.js
